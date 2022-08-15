@@ -1,0 +1,67 @@
+body
+{
+    background-color: turquoise;
+    
+}
+h1
+{
+    position: relative;
+    left: 505px;
+    text-decoration: underline;
+}
+h1:hover
+{
+    cursor: pointer;
+}
+#bfrdiv
+{
+    background-color: tomato;
+    width: 300px;
+    height: 100px;
+    border-radius:20px;
+    position: relative;
+}
+#div1
+{
+    height: 300px;
+    width: 300px;
+    background-color: yellow;
+    border-radius: 20px;
+    margin: auto;
+    position: relative;
+    top: 10em;
+    z-index: -1;
+}
+.inp
+{
+    margin: 10px;
+    position: relative;
+    top: 20px;
+    left: 45px;
+    height: 20px;
+    border-radius: 20px;
+}
+#sp1
+{
+    position: relative;
+    top: 21px;
+    left: 47px;
+    background-color: yellowgreen;
+    border: 2px solid black;
+}
+#sp1:hover
+{
+    cursor:pointer;
+}
+#lgn1
+{
+    position: relative;
+    top: 117px;
+    left: -8px;
+}
+#snu1
+{
+    position: relative;
+    top: 82px;
+    left: 20px;
+}
